@@ -6,6 +6,9 @@ There are various algorithms and methodologies used for automated screening of c
 Convolutional Neural Network is highly preferred because of its architecture and also the best feature is that it does not have feature extraction. 
 We have built different models such as Alexnet, Squeezenet, VGG, Resnet50, Resnet101 and Densenet201. It was observed that Densenet201 gave us the highest accuracy of 97%.
 
+## DATASET: The dataset was obtained from the official SipakMed dataset website which has been linked below
+https://www.cs.uoi.gr/~marina/sipakmed.html
+
 Multiple networks have been executed and analyzed to present a comparison graph.
 
 ![image](https://user-images.githubusercontent.com/61319234/126349558-7fb265f1-6fe5-415a-88b7-33265353184d.png)
